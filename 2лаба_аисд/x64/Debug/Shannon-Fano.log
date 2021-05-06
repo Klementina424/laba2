@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(73,55): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(90,48): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(137,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\main.cpp(24,34): warning C4101: e: неиспользованная локальная переменная
+  Shannon-Fano.vcxproj -> C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\x64\Debug\Shannon-Fano.exe

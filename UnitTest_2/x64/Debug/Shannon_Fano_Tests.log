@@ -1,0 +1,8 @@
+﻿  UnitTest_2.cpp
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(73,55): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(90,48): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon-Fano\Decode.h(139,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon_Fano_Tests\UnitTest_2.cpp(22,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\Shannon_Fano_Tests\UnitTest_2.cpp(71,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+     Создается библиотека C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\x64\Debug\Shannon_Fano_Tests.lib и объект C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\x64\Debug\Shannon_Fano_Tests.exp
+  Shannon_Fano_Tests.vcxproj -> C:\Users\79825\Desktop\modak\Lab_2-4-term-main\Shannon-Fano\x64\Debug\Shannon_Fano_Tests.dll
